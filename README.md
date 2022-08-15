@@ -3,7 +3,7 @@ Built blockchain based voting Dapp which would be more secure, transparent, immu
 
 ## Why do we need it? 
 Current voting systems like ballot box voting or electronic voting suffer from various security threats such as DDoS attacks, polling booth capturing, vote alteration and manipulation, malware attacks, etc, and also require huge amounts of paperwork, human resources, and time. This creates a sense of distrust among existing systems. 
-Some of the disadvantages are:
+### Some of the disadvantages are:
 
 Long Queues during elections.
 Security Breaches like data leaks, vote tampering.
