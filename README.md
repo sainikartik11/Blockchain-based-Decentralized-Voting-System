@@ -29,3 +29,4 @@ Feel free to make changes and add new features
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
 
+![alt text](https://raw.githubusercontent.com/sainikartik11/Blockchain-based-Decentralized-Voting-System/main/2.jpg)
