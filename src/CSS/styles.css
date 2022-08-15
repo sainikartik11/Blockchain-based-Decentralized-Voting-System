@@ -1,0 +1,7 @@
+.title {
+    background-color: var(--first-color);
+    color: var(--third-color);
+    text-align: center;
+    padding: 3% 5% 5% 5%;
+    background-color: black;
+}
